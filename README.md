@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm @Chanoian , I'm a Consultant at Red Hat working on OpenShift.
+
+- 🌱 I’m currently learning ... GoLang
+- 💬 Ask me about: OpenShift, Kubernetes, Containers.
+- 📫 How to reach me: ...
+- 😄 Pronouns: He/Him
+  
 <!--
 **Chanoian/Chanoian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
