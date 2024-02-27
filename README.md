@@ -4,7 +4,7 @@ I'm @Chanoian , I'm a Consultant at Red Hat working on OpenShift.
 
 - 🌱 I’m currently learning ... GoLang
 - 💬 Ask me about: OpenShift, Kubernetes, Containers.
-- 📫 How to reach me: ...
+- 📫 How to reach me: ara.chanoian@gmail.com / ara.chanoian@redhat.com
 - 😄 Pronouns: He/Him
   
 <!--
