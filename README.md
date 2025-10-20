@@ -4,7 +4,7 @@ I'm @Chanoian , I'm a Senior Consultant at Red Hat working on OpenShift/Ansible.
 
 
 - 🌱 I’m currently learning: GoLang.
-- 💬 Ask me about: OpenShift, Ansible, Kubernetes, Containers & Python.
+- 💬 Ask me about: OpenShift, Ansible, Ansible Automation Platforn, Containers & Python.
 - 📫 How to reach me: ara.chanoian@gmail.com / ara.chanoian@redhat.com
 - 😄 Pronouns: He/Him
   
